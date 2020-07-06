@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>gihyo.jp：総合</title>
+ <link>https://gihyo.jp/</link>
+ <description>gihyo.jp（総合）の更新情報をお届けします</description>
+ <language>ja-jp</language>
+ <copyright>技術評論社 2020</copyright>
+ <lastBuildDate>Thu, 02 Jul 2020 22:52:00 +0900</lastBuildDate>
+ <image>
+  <url>https://gihyo.jp/assets/templates/gihyojp2007/image/header_logo_gihyo.gif</url>
+  <title>gihyo.jp</title>
+  <link>https://gihyo.jp/</link>
+ </image>
+ <item>
+  <title>2020年7月2日　濃厚接触！？ ── 帰ってきた『技評ねこ部通信』</title>
+  <link>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202007/0702</link>
+  <description>ねこ部，大発見したかもしれません！</description>
+  <pubDate>Thu, 02 Jul 2020 15:00:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/lifestyle/clip/01/monthly-cat">帰ってきた『技評ねこ部通信』</category>
+  <guid>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202007/0702</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>2020年7月第1週　GMail以来の新しいメールサービス『Hey』（前編） ── Android Weekly Topics</title>
+  <link>https://gihyo.jp/lifestyle/clip/01/awt/202007/02</link>
+  <description>2020年7月第1週のAndroid関連のニュースをお届けします。</description>
+  <pubDate>Thu, 02 Jul 2020 09:15:20 +0900</pubDate>
+  <category domain="https://gihyo.jp/lifestyle/clip/01/awt">Android Weekly Topics</category>
+  <guid>https://gihyo.jp/lifestyle/clip/01/awt/202007/02</guid> 
+  <author>傍島康雄</author>
+ </item>
+ <item>
+  <title>2020年7月第1週号 1位は，カード型UIをデザインするためのヒント，気になるネタは，モバイル版「Googleフォト」大幅刷新 検索しやすく，マップ連携表示が可能に ── 週刊Webテク通信</title>
+  <link>https://gihyo.jp/design/clip/01/weekly-web-tech/202007/02</link>
+  <description>ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2020年6月22日～6月28日の間に見つけた記事のベスト5です。</description>
+  <pubDate>Thu, 02 Jul 2020 09:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/design/clip/01/weekly-web-tech">週刊Webテク通信</category>
+  <guid>https://gihyo.jp/design/clip/01/weekly-web-tech/202007/02</guid> 
+  <author>芦之由</author>
+ </item>
+ <item>
+  <title>第625回　Nextcloudでオフィスファイルを編集する ── Ubuntu Weekly Recipe</title>
+  <link>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0625</link>
+  <description>6月3日にNextcloud Hub 19.0.0がリリースされました。このリリースの最大の特徴のひとつが，Nextcloud Hubに標準でインストールされ，Talkでチャット中にも利用できるようになったCollabora Onlineでしょう。</description>
+  <pubDate>Wed, 01 Jul 2020 09:46:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/serial/01/ubuntu-recipe">Ubuntu Weekly Recipe</category>
+  <guid>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0625</guid> 
+  <author>柴田充也</author>
+ </item>
+ <item>
+  <title>第21回　AIは止まらない ── 続・玩式草子 ―戯れせんとや生まれけん―</title>
+  <link>https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0021</link>
+  <description>梅雨の雨に降り込められている今日このごろ，今回は少し趣向を変えて，「人工知能」について思うことを綴（つづ）ってみましょう。</description>
+  <pubDate>Wed, 01 Jul 2020 09:16:40 +0900</pubDate>
+  <category domain="https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2">続・玩式草子 ―戯れせんとや生まれけん―</category>
+  <guid>https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0021</guid> 
+  <author>こじまみつひろ</author>
+ </item>
+ <item>
+  <title>第59回　オープンソースカンファレンスOnline，KDDIにおけるMySQL InnoDB Cluster事例，PostgreSQLのオンラインイベント紹介 ── OSSデータベース取り取り時報</title>
+  <link>https://gihyo.jp/dev/serial/01/oss-db-various-news/0059</link>
+  <description>この連載では，OSSコンソーシアム データベース部会のメンバーが，さまざまなオープンソースデータベースの毎月の出来事をお伝えしています。</description>
+  <pubDate>Wed, 01 Jul 2020 09:16:20 +0900</pubDate>
+  <category domain="https://gihyo.jp/dev/serial/01/oss-db-various-news">OSSデータベース取り取り時報</category>
+  <guid>https://gihyo.jp/dev/serial/01/oss-db-various-news/0059</guid> 
+  <author>梶山隆輔，溝口則行</author>
+ </item>
+ <item>
+  <title>WEB+DB PRESS Vol.116へのお便り ── はまちちゃんとわかばちゃんのREADER'S FORUM―読者のページ</title>
+  <link>https://gihyo.jp/dev/serial/01/readers-forum/vol117</link>
+  <description>こんにちはこんにちは!！ ちょっと暑くなってきましたね！ まだまだリモートワークの人も多いんでしょうか？ 移動時間がなくなるだけでだいぶ時間の余裕ができますね！</description>
+  <pubDate>Wed, 01 Jul 2020 09:16:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/dev/serial/01/readers-forum">はまちちゃんとわかばちゃんのREADER'S FORUM―読者のページ</category>
+  <guid>https://gihyo.jp/dev/serial/01/readers-forum/vol117</guid> 
+  <author>はまちや2，竹原</author>
+ </item>
+ <item>
+  <title>新しい日常「テレワーク」の導入の進め方 ── 新刊ピックアップ</title>
+  <link>https://gihyo.jp/book/pickup/2020/0043</link>
+  <description>新型コロナウイルスの感染拡大と政府の緊急事態宣言の発出にともない，これまで一部の先進的な企業にとどまっていた「テレワーク」の導入を進める企業や職種が急拡大しています。</description>
+  <pubDate>Wed, 01 Jul 2020 09:15:20 +0900</pubDate>
+  <category domain="https://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>https://gihyo.jp/book/pickup/2020/0043</guid> 
+  <author>足立昌聰</author>
+ </item>
+ <item>
+  <title>新型コロナウィルスの影響でビジネスのトレンドはどう変わるのか ── 新刊ピックアップ</title>
+  <link>https://gihyo.jp/book/pickup/2020/0042</link>
+  <description>新型コロナウィルスの影響で，多くのビジネスの常識が変わってしまいました。</description>
+  <pubDate>Wed, 01 Jul 2020 09:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>https://gihyo.jp/book/pickup/2020/0042</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>ソラコム，オンライン版年次カンファレンス「SORACOM Discovery ONLINE 2020」を7/14に開催 ── インフォメーション</title>
+  <link>https://gihyo.jp/news/info/2020/06/3001</link>
+  <description>（株）ソラコムは，2020年7月14日（火）に同社の年次カンファレンス「SORACOM Discovery ONLINE 2020」を開催する。</description>
+  <pubDate>Tue, 30 Jun 2020 16:23:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/news/info">インフォメーション</category>
+  <guid>https://gihyo.jp/news/info/2020/06/3001</guid> 
+  <author>技術評論社</author>
+ </item>
+ <item>
+  <title>2020年6月30日　Fedora，デフォルトエディタに「nano」を採用へ ── Linux Daily Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/linux_dt/41187/30</link>
+  <description>Fedoraプロジェクトは6月25日，今秋リリース予定の次期バージョン「Fedora 33」において，デフォルトのテキストエディタに「nano」を採用する予定であることを明らかにした。</description>
+  <pubDate>Tue, 30 Jun 2020 14:08:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/linux_dt/41187/30</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>ネットショップ，はじめてみませんか？ ── 新刊ピックアップ</title>
+  <link>https://gihyo.jp/book/pickup/2020/0041</link>
+  <description>緊急事態宣言下の自粛期間，不要不急の外出を控えなければならない中で，インターネットを使った買い物を行う機会が格段に増えたのではないでしょうか？</description>
+  <pubDate>Tue, 30 Jun 2020 09:15:20 +0900</pubDate>
+  <category domain="https://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>https://gihyo.jp/book/pickup/2020/0041</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>Excelより便利!? Googleスプレッドシートの独自関数を使ってみよう！ ── 新刊ピックアップ</title>
+  <link>https://gihyo.jp/book/pickup/2020/0040</link>
+  <description>Gooogleスプレッドシート，その先進性と共有性の高さからExcelを超えるとも言われる次世代表計算ツール。</description>
+  <pubDate>Tue, 30 Jun 2020 09:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>https://gihyo.jp/book/pickup/2020/0040</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>「古着転売」でマーケティングを学ぼう ── 新刊ピックアップ</title>
+  <link>https://gihyo.jp/book/pickup/2020/0039</link>
+  <description>「転売」と聞くとどんなイメージがあるでしょうか？</description>
+  <pubDate>Mon, 29 Jun 2020 09:15:20 +0900</pubDate>
+  <category domain="https://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>https://gihyo.jp/book/pickup/2020/0039</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>試験を通じて国際的に通用するテスト技術を学ぶ ── 新刊ピックアップ</title>
+  <link>https://gihyo.jp/book/pickup/2020/0038</link>
+  <description>我々が日常的に利用するソフトウェアやアプリケーションの品質管理（Quality Control：QC活動）の重要性は，今後さらに増すことでしょう。</description>
+  <pubDate>Mon, 29 Jun 2020 09:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>https://gihyo.jp/book/pickup/2020/0038</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>2020年6月26日号　groovyの開発/DMEST_RESTRICTの検討・UBportsのTreble対応イメージ ── Ubuntu Weekly Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/ubuntu-topics/202006/26</link>
+  <description>groovyではDMESG_RESTRICTを有効にしたいという提案が行われています。これにより，「一般ユーザーはdmesgを実行できない」という挙動が実現されるかもしれません。また，Ubuntu Phoneの後継プロジェクト，「GSI対応UBportsイメージ」がリリースされています。</description>
+  <pubDate>Fri, 26 Jun 2020 09:46:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/ubuntu-topics">Ubuntu Weekly Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/ubuntu-topics/202006/26</guid> 
+  <author>吉田史</author>
+ </item>
+ <item>
+  <title>いまさら聞けない「Minecraft」のこと ── 新刊ピックアップ</title>
+  <link>https://gihyo.jp/book/pickup/2020/0037</link>
+  <description>みなさんは「Minecraft（マインクラフト）」というゲームをご存知でしょうか？</description>
+  <pubDate>Fri, 26 Jun 2020 09:15:40 +0900</pubDate>
+  <category domain="https://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>https://gihyo.jp/book/pickup/2020/0037</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>iPhone SE 第2世代はお買い得なのか？ ── 新刊ピックアップ</title>
+  <link>https://gihyo.jp/book/pickup/2020/0036</link>
+  <description>2020年5月に各携帯電話会社から発売されたiPhone SEは，2016年発売の初代モデル（第1世代）から約4年振りにリニューアルされた，iPhone SEの最新モデルです。</description>
+  <pubDate>Fri, 26 Jun 2020 09:15:20 +0900</pubDate>
+  <category domain="https://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>https://gihyo.jp/book/pickup/2020/0036</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>資料の見た目を「スペースキー」で整えるのは，いますぐやめよう！ ── 新刊ピックアップ</title>
+  <link>https://gihyo.jp/book/pickup/2020/0035</link>
+  <description>資料を作成するとき，ほとんどの方が「正確でわかりやすい資料」を心がけていることでしょう。ですが，ホントにそれだけでいいのでしょうか？</description>
+  <pubDate>Fri, 26 Jun 2020 09:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>https://gihyo.jp/book/pickup/2020/0035</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>2020年6月25日　Flatpak 1.8がリリース，USBドライブのサイドロード自動検出が可能に ── Linux Daily Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/linux_dt/41187/25</link>
+  <description>アプリケーションパッケージングシステム「Flatpak」開発者のAlexandar Larssonは6月24日，「Flatpak 1.8」のリリースを発表した。</description>
+  <pubDate>Thu, 25 Jun 2020 16:19:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/linux_dt/41187/25</guid> 
+  <author>階戸アキラ</author>
+ </item>
+</channel>
+</rss>
